@@ -8,7 +8,7 @@ body {
 
 h1, h2 {
   font-family: 'Lora', serif;
-  color: #2f4f4f;
+  color: #7cb342;
 }
 
 .container {
@@ -18,7 +18,7 @@ h1, h2 {
 }
 
 .banner {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/hero.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://as1.ftcdn.net/v2/jpg/06/03/60/40/1000_F_603604052_ymJlfUg5aemPj2iEqHqeMgUwBwrW5gQN.jpg');
   background-size: cover;
   background-position: center;
   text-align: center;
